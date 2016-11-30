@@ -1,0 +1,9 @@
+<templateSet group="[custom]">
+  <template name="ftsio" value="// (╯°〇°）╯︵ ┻━┻ fuck this shit I'm out!" description="flip the table" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
